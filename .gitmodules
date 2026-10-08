@@ -1,0 +1,6 @@
+[submodule "KT-1/Kostyushin"]
+	path = KT-1/Kostyushin
+	url = https://github.com/valer1q/Kostyushin.git
+[submodule "KT-1/Kostyushin_copy"]
+	path = KT-1/Kostyushin_copy
+	url = https://github.com/valer1q/Kostyushin.git
